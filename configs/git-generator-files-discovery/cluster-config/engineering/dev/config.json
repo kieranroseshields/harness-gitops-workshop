@@ -7,5 +7,6 @@
   },
   "asset_id": "12345678",
   "aws_account": "654321",
-  "release_version": "{{ .release_version }}"
+  "release_version": "{{ .release_version }}",
+  "force_update": "{{ .release_version }}"
 }
